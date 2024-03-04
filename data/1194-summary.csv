@@ -1,0 +1,109 @@
+Weakness ID,Name,Submission_ReleaseDate,Last Modification_Date
+1053,Missing Documentation for Design,2019-01-03,2024-02-29
+1059,Insufficient Technical Documentation,2019-01-03,2024-02-29
+1189,Improper Isolation of Shared Resources on System-on-a-Chip (SoC),2020-02-24,2023-06-29
+1190,DMA Device Enabled Too Early in Boot Phase,2020-02-24,2023-06-29
+1191,On-Chip Debug and Test Interface With Improper Access Control,2020-02-24,2023-10-26
+1192,Improper Identifier for IP Block used in System-On-Chip (SOC),2020-02-24,2024-02-29
+1193,Power-On of Untrusted Execution Core Before Enabling Fabric Access Control,2020-02-24,2023-06-29
+1209,Failure to Disable Reserved Bits,2020-02-24,2023-06-29
+1220,Insufficient Granularity of Access Control,2020-02-24,2023-10-26
+1221,Incorrect Register Defaults or Module Parameters,2020-02-24,2024-02-29
+1222,Insufficient Granularity of Address Regions Protected by Register Locks,2020-02-24,2023-06-29
+1223,Race Condition for Write-Once Attributes,2020-02-24,2023-06-29
+1224,Improper Restriction of Write-Once Bit Fields,2020-02-24,2023-06-29
+1231,Improper Prevention of Lock Bit Modification,2020-02-24,2023-10-26
+1232,Improper Lock Behavior After Power State Transition,2020-02-24,2023-06-29
+1233,Security-Sensitive Hardware Controls with Missing Lock Bit Protection,2020-02-24,2023-06-29
+1234,Hardware Internal or Debug Modes Allow Override of Locks,2020-02-24,2024-02-29
+1239,Improper Zeroization of Hardware Register,2020-02-24,2024-02-29
+1240,Use of a Cryptographic Primitive with a Risky Implementation,2020-02-24,2023-06-29
+1241,Use of Predictable Algorithm in Random Number Generator,2020-02-24,2023-10-26
+1242,Inclusion of Undocumented Features or Chicken Bits,2020-02-24,2024-02-29
+1243,Sensitive Non-Volatile Information Not Protected During Debug,2020-02-24,2023-10-26
+1244,Internal Asset Exposed to Unsafe Debug Access Level or State,2020-02-24,2024-02-29
+1245,Improper Finite State Machines (FSMs) in Hardware Logic,2020-02-24,2023-06-29
+1246,Improper Write Handling in Limited-write Non-Volatile Memories,2020-02-24,2023-06-29
+1247,Improper Protection Against Voltage and Clock Glitches,2020-02-24,2023-10-26
+1248,Semiconductor Defects in Hardware Logic with Security-Sensitive Implications,2020-02-24,2023-06-29
+1250,Improper Preservation of Consistency Between Independent Representations of Shared State,2020-02-24,2023-06-29
+1251,Mirrored Regions with Different Values,2020-02-24,2023-06-29
+1252,CPU Hardware Not Configured to Support Exclusivity of Write and Execute Operations,2020-02-24,2023-06-29
+1253,Incorrect Selection of Fuse Values,2020-02-24,2023-06-29
+1254,Incorrect Comparison Logic Granularity,2020-02-24,2023-10-26
+1255,Comparison Logic is Vulnerable to Power Side-Channel Attacks,2020-08-20,2024-02-29
+1256,Improper Restriction of Software Interfaces to Hardware Features,2020-02-24,2023-06-29
+1257,Improper Access Control Applied to Mirrored or Aliased Memory Regions,2020-02-24,2023-06-29
+1258,Exposure of Sensitive System Information Due to Uncleared Debug Information,2020-02-24,2023-10-26
+1259,Improper Restriction of Security Token Assignment,2020-02-24,2023-06-29
+1260,Improper Handling of Overlap Between Protected Memory Ranges,2020-02-24,2023-06-29
+1261,Improper Handling of Single Event Upsets,2020-02-24,2023-06-29
+1262,Improper Access Control for Register Interface,2020-02-24,2023-10-26
+1263,Improper Physical Access Control,2020-02-24,2023-06-29
+1264,Hardware Logic with Insecure De-Synchronization between Control and Data Channels,2020-02-24,2023-06-29
+1266,Improper Scrubbing of Sensitive Data from Decommissioned Device,2020-02-24,2023-06-29
+1267,Policy Uses Obsolete Encoding,2020-02-24,2023-06-29
+1268,Policy Privileges are not Assigned Consistently Between Control and Data Agents,2020-02-24,2023-06-29
+1269,Product Released in Non-Release Configuration,2020-02-24,2023-06-29
+1270,Generation of Incorrect Security Tokens,2020-02-24,2023-06-29
+1271,Uninitialized Value on Reset for Registers Holding Security Settings,2020-02-24,2023-06-29
+1272,Sensitive Information Uncleared Before Debug/Power State Transition,2020-02-24,2023-06-29
+1273,Device Unlock Credential Sharing,2020-02-24,2023-06-29
+1274,Improper Access Control for Volatile Memory Containing Boot Code,2020-02-24,2024-02-29
+1276,Hardware Child Block Incorrectly Connected to Parent System,2020-02-24,2023-10-26
+1277,Firmware Not Updateable,2020-02-24,2023-06-29
+1278,Missing Protection Against Hardware Reverse Engineering Using Integrated Circuit (IC) Imaging Techniques,2020-02-24,2023-06-29
+1279,Cryptographic Operations are run Before Supporting Units are Ready,2020-02-24,2023-10-26
+1280,Access Control Check Implemented After Asset is Accessed,2020-02-24,2023-10-26
+1281,Sequence of Processor Instructions Leads to Unexpected Behavior,2020-02-24,2023-10-26
+1282,Assumed-Immutable Data is Stored in Writable Memory,2020-02-24,2023-06-29
+1283,Mutable Attestation or Measurement Reporting Data,2020-02-24,2023-06-29
+1290,Incorrect Decoding of Security Identifiers ,2020-08-20,2023-06-29
+1291,Public Key Re-Use for Signing both Debug and Production Code,2020-08-20,2023-06-29
+1292,Incorrect Conversion of Security Identifiers,2020-08-20,2023-06-29
+1294,Insecure Security Identifier Mechanism,2020-08-20,2023-06-29
+1295,Debug Messages Revealing Unnecessary Information,2020-08-20,2023-10-26
+1296,Incorrect Chaining or Granularity of Debug Components,2020-08-20,2023-06-29
+1297,Unprotected Confidential Information on Device is Accessible by OSAT Vendors,2020-08-20,2023-06-29
+1298,Hardware Logic Contains Race Conditions,2020-08-20,2024-02-29
+1299,Missing Protection Mechanism for Alternate Hardware Interface,2020-08-20,2024-02-29
+1300,Improper Protection of Physical Side Channels,2020-08-20,2023-10-26
+1301,Insufficient or Incomplete Data Removal within Hardware Component,2020-08-20,2023-10-26
+1302,Missing Source Identifier in Entity Transactions on a System-On-Chip (SOC),2020-08-20,2024-02-29
+1303,Non-Transparent Sharing of Microarchitectural Resources,2020-08-20,2023-06-29
+1304,Improperly Preserved Integrity of Hardware Configuration State During a Power Save/Restore Operation,2020-08-20,2023-06-29
+1310,Missing Ability to Patch ROM Code,2020-12-10,2024-02-29
+1311,Improper Translation of Security Attributes by Fabric Bridge,2020-12-10,2023-06-29
+1312,Missing Protection for Mirrored Regions in On-Chip Fabric Firewall,2020-12-10,2023-06-29
+1313,Hardware Allows Activation of Test or Debug Logic at Runtime,2020-12-10,2023-10-26
+1314,Missing Write Protection for Parametric Data Values,2020-12-10,2023-06-29
+1315,Improper Setting of Bus Controlling Capability in Fabric End-point,2020-12-10,2023-06-29
+1316,Fabric-Address Map Allows Programming of Unwarranted Overlaps of Protected and Unprotected Ranges,2020-12-10,2023-06-29
+1317,Improper Access Control in Fabric Bridge,2020-12-10,2024-02-29
+1318,Missing Support for Security Features in On-chip Fabrics or Buses,2020-12-10,2023-06-29
+1319,Improper Protection against Electromagnetic Fault Injection (EM-FI),2020-12-10,2023-10-26
+1320,Improper Protection for Outbound Error Messages and Alert Signals,2020-12-10,2023-06-29
+1323,Improper Management of Sensitive Trace Data,2020-12-10,2023-06-29
+1326,Missing Immutable Root of Trust in Hardware,2020-12-10,2023-10-26
+1328,Security Version Number Mutable to Older Versions,2020-12-10,2023-06-29
+1329,Reliance on Component That is Not Updateable,2020-12-10,2024-02-29
+1330,Remanent Data Readable after Memory Erase,2020-12-10,2023-06-29
+1331,Improper Isolation of Shared Resources in Network On Chip (NoC),2020-12-10,2023-10-26
+1332,Improper Handling of Faults that Lead to Instruction Skips,2020-12-10,2023-06-29
+1334,Unauthorized Error Injection Can Degrade Hardware Redundancy,2020-12-10,2023-06-29
+1338,Improper Protections Against Hardware Overheating,2020-12-10,2023-06-29
+1342,Information Exposure through Microarchitectural State after Transient Execution,2021-10-28,2024-02-29
+1351,Improper Handling of Hardware Behavior in Exceptionally Cold Environments,2021-07-20,2023-06-29
+1357,Reliance on Insufficiently Trustworthy Component,2022-04-28,2023-06-29
+1384,Improper Handling of Physical or Environmental Conditions,2022-04-28,2023-10-26
+1420,Exposure of Sensitive Information during Transient Execution,2024-02-29,NO DATE
+1421,Exposure of Sensitive Information in Shared Microarchitectural Structures during Transient Execution,2024-02-29,NO DATE
+1422,Exposure of Sensitive Information caused by Incorrect Data Forwarding during Transient Execution,2024-02-29,NO DATE
+1423,Exposure of Sensitive Information caused by Shared Microarchitectural Predictor State that Influences Transient Execution,2024-02-29,NO DATE
+203,Observable Discrepancy,2006-07-19,2024-02-29
+226,Sensitive Information in Resource Not Removed Before Reuse,2006-07-19,2024-02-29
+276,Incorrect Default Permissions,2006-07-19,2023-06-29
+319,Cleartext Transmission of Sensitive Information,2006-07-19,2024-02-29
+325,Missing Cryptographic Step,2006-07-19,2023-10-26
+440,Expected Behavior Violation,2006-07-19,2024-02-29
+441,Unintended Proxy or Intermediary ('Confused Deputy'),2006-07-19,2023-06-29

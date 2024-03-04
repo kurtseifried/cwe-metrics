@@ -1,0 +1,400 @@
+Weakness ID,Name,Submission_ReleaseDate,Last Modification_Date
+1007,Insufficient Visual Distinction of Homoglyphs Presented to User,2017-11-08,2023-06-29
+1021,Improper Restriction of Rendered UI Layers or Frames,2017-11-08,2023-06-29
+1024,Comparison of Incompatible Types,2018-03-29,2023-06-29
+1025,Comparison Using Wrong Factors,2018-03-29,2023-06-29
+1037,Processor Optimization Removal or Modification of Security-critical Code,2018-03-29,2023-06-29
+1041,Use of Redundant Code,2019-01-03,2024-02-29
+1043,Data Element Aggregating an Excessively Large Number of Non-Primitive Elements,2019-01-03,2024-02-29
+1044,Architecture with Number of Horizontal Layers Outside of Expected Range,2019-01-03,2024-02-29
+1045,Parent Class with a Virtual Destructor and a Child Class without a Virtual Destructor,2019-01-03,2023-06-29
+1046,Creation of Immutable Text Using String Concatenation,2019-01-03,2023-06-29
+1047,Modules with Circular Dependencies,2019-01-03,2024-02-29
+1048,Invokable Control Element with Large Number of Outward Calls,2019-01-03,2024-02-29
+1049,Excessive Data Query Operations in a Large Data Table,2019-01-03,2023-06-29
+1050,Excessive Platform Resource Consumption within a Loop,2019-01-03,2023-06-29
+1051,Initialization with Hard-Coded Network Resource Configuration Data,2019-01-03,2024-02-29
+1052,Excessive Use of Hard-Coded Literals in Initialization,2019-01-03,2023-10-26
+1053,Missing Documentation for Design,2019-01-03,2024-02-29
+1054,Invocation of a Control Element at an Unnecessarily Deep Horizontal Layer,2019-01-03,2024-02-29
+1055,Multiple Inheritance from Concrete Classes,2019-01-03,2024-02-29
+1056,Invokable Control Element with Variadic Parameters,2019-01-03,2024-02-29
+1057,Data Access Operations Outside of Expected Data Manager Component,2019-01-03,2024-02-29
+1058,Invokable Control Element in Multi-Thread Context with non-Final Static Storable or Member Element,2019-01-03,2023-06-29
+1060,Excessive Number of Inefficient Server-Side Data Accesses,2019-01-03,2024-02-29
+1062,Parent Class with References to Child Class,2019-01-03,2024-02-29
+1063,Creation of Class Instance within a Static Code Block,2019-01-03,2024-02-29
+1064,Invokable Control Element with Signature Containing an Excessive Number of Parameters,2019-01-03,2024-02-29
+1065,Runtime Resource Management Control Element in a Component Built to Run on Application Servers,2019-01-03,2024-02-29
+1066,Missing Serialization Control Element,2019-01-03,2024-02-29
+1067,Excessive Execution of Sequential Searches of Data Resource,2019-01-03,2023-06-29
+1068,Inconsistency Between Implementation and Documented Design,2019-01-03,2024-02-29
+1070,Serializable Data Element Containing non-Serializable Item Elements,2019-01-03,2024-02-29
+1071,Empty Code Block,2019-01-03,2024-02-29
+1072,Data Resource Access without Use of Connection Pooling,2019-01-03,2024-02-29
+1073,Non-SQL Invokable Control Element with Excessive Number of Data Resource Accesses,2019-01-03,2024-02-29
+1074,Class with Excessively Deep Inheritance,2019-01-03,2024-02-29
+1075,Unconditional Control Flow Transfer outside of Switch Block,2019-01-03,2023-06-29
+1079,Parent Class without Virtual Destructor Method,2019-01-03,2023-06-29
+1080,Source Code File with Excessive Number of Lines of Code,2019-01-03,2024-02-29
+1082,Class Instance Self Destruction Control Element,2019-01-03,2024-02-29
+1083,Data Access from Outside Expected Data Manager Component,2019-01-03,2024-02-29
+1084,Invokable Control Element with Excessive File or Data Access Operations,2019-01-03,2024-02-29
+1085,Invokable Control Element with Excessive Volume of Commented-out Code,2019-01-03,2024-02-29
+1086,Class with Excessive Number of Child Classes,2019-01-03,2024-02-29
+1087,Class with Virtual Method without a Virtual Destructor,2019-01-03,2023-06-29
+1089,Large Data Table with Excessive Number of Indices,2019-01-03,2023-06-29
+1090,Method Containing Access of a Member Element from Another Class,2019-01-03,2024-02-29
+1092,Use of Same Invokable Control Element in Multiple Architectural Layers,2019-01-03,2024-02-29
+1094,Excessive Index Range Scan for a Data Resource,2019-01-03,2024-02-29
+1095,Loop Condition Value Update within the Loop,2019-01-03,2024-02-29
+1097,Persistent Storable Data Element without Associated Comparison Control Element,2019-01-03,2024-02-29
+1098,Data Element containing Pointer Item without Proper Copy Control Element,2019-01-03,2023-06-29
+1099,Inconsistent Naming Conventions for Identifiers,2019-01-03,2024-02-29
+1100,Insufficient Isolation of System-Dependent Functions,2019-01-03,2023-06-29
+1101,Reliance on Runtime Component in Generated Code,2019-01-03,2024-02-29
+1102,Reliance on Machine-Dependent Data Representation,2019-01-03,2023-06-29
+1103,Use of Platform-Dependent Third Party Components,2019-01-03,2024-02-29
+1104,Use of Unmaintained Third Party Components,2019-01-03,2023-06-29
+1105,Insufficient Encapsulation of Machine-Dependent Functionality,2019-01-03,2024-02-29
+1106,Insufficient Use of Symbolic Constants,2019-01-03,2024-02-29
+1107,Insufficient Isolation of Symbolic Constant Definitions,2019-01-03,2024-02-29
+1108,Excessive Reliance on Global Variables,2019-01-03,2023-06-29
+1109,Use of Same Variable for Multiple Purposes,2019-01-03,2024-02-29
+1110,Incomplete Design Documentation,2019-01-03,2024-02-29
+1111,Incomplete I/O Documentation,2019-01-03,2024-02-29
+1112,Incomplete Documentation of Program Execution,2019-01-03,2024-02-29
+1113,Inappropriate Comment Style,2019-01-03,2024-02-29
+1114,Inappropriate Whitespace Style,2019-01-03,2024-02-29
+1115,Source Code Element without Standard Prologue,2019-01-03,2024-02-29
+1116,Inaccurate Comments,2019-01-03,2023-06-29
+1117,Callable with Insufficient Behavioral Summary,2019-01-03,2024-02-29
+1118,Insufficient Documentation of Error Handling Techniques,2019-01-03,2024-02-29
+1119,Excessive Use of Unconditional Branching,2019-01-03,2024-02-29
+112,Missing XML Validation,2006-07-19,2023-06-29
+1121,Excessive McCabe Cyclomatic Complexity,2019-01-03,2024-02-29
+1122,Excessive Halstead Complexity,2019-01-03,2024-02-29
+1123,Excessive Use of Self-Modifying Code,2019-01-03,2023-06-29
+1124,Excessively Deep Nesting,2019-01-03,2024-02-29
+1125,Excessive Attack Surface,2019-01-03,2024-02-29
+1126,Declaration of Variable with Unnecessarily Wide Scope,2019-01-03,2023-06-29
+1127,Compilation with Insufficient Warnings or Errors,2019-01-03,2023-06-29
+115,Misinterpretation of Input,2006-07-19,2023-06-29
+117,Improper Output Neutralization for Logs,2006-07-19,2023-06-29
+1173,Improper Use of Validation Framework,2019-01-03,2023-06-29
+1188,Initialization of a Resource with an Insecure Default,2019-06-20,2023-10-26
+120,Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'),2006-07-19,2023-06-29
+1204,Generation of Weak Initialization Vector (IV),2021-03-15,2023-06-29
+1220,Insufficient Granularity of Access Control,2020-02-24,2023-10-26
+1230,Exposure of Sensitive Information Through Metadata,2020-02-24,2023-06-29
+1235,Incorrect Use of Autoboxing and Unboxing for Performance Critical Operations,2020-02-24,2023-06-29
+1236,Improper Neutralization of Formula Elements in a CSV File,2020-02-24,2023-06-29
+124,Buffer Underwrite ('Buffer Underflow'),2006-07-19,2024-02-29
+1240,Use of a Cryptographic Primitive with a Risky Implementation,2020-02-24,2023-06-29
+1241,Use of Predictable Algorithm in Random Number Generator,2020-02-24,2023-10-26
+125,Out-of-bounds Read,2006-07-19,2023-10-26
+1265,Unintended Reentrant Invocation of Non-reentrant Code Via Nested Calls,2020-02-24,2023-06-29
+128,Wrap-around Error,2006-07-19,2023-06-29
+1284,Improper Validation of Specified Quantity in Input,2020-02-24,2023-06-29
+1285,"Improper Validation of Specified Index, Position, or Offset in Input",2020-02-24,2023-06-29
+1286,Improper Validation of Syntactic Correctness of Input,2020-02-24,2023-06-29
+1287,Improper Validation of Specified Type of Input,2020-02-24,2023-06-29
+1288,Improper Validation of Consistency within Input,2020-02-24,2023-06-29
+1289,Improper Validation of Unsafe Equivalence in Input,2020-02-24,2023-06-29
+130,Improper Handling of Length Parameter Inconsistency,2006-07-19,2024-02-29
+131,Incorrect Calculation of Buffer Size,2006-07-19,2023-06-29
+1322,"Use of Blocking Code in Single-threaded, Non-blocking Context",2020-12-10,2023-06-29
+1327,Binding to an Unrestricted IP Address,2020-12-10,2023-10-26
+1333,Inefficient Regular Expression Complexity,2021-03-15,2023-06-29
+1335,Incorrect Bitwise Shift of Integer,2021-07-20,2023-06-29
+1339,Insufficient Precision or Accuracy of a Real Number,2021-07-20,2024-02-29
+134,Use of Externally-Controlled Format String,2006-07-19,2023-06-29
+1341,Multiple Releases of Same Resource or Handle,2021-10-28,2023-06-29
+135,Incorrect Calculation of Multi-Byte String Length,2006-07-19,2023-06-29
+1389,Incorrect Parsing of Numbers with Different Radices,2022-10-13,2023-06-29
+1392,Use of Default Credentials,2022-10-13,2023-06-29
+140,Improper Neutralization of Delimiters,2006-07-19,2023-10-26
+15,External Control of System or Configuration Setting,2006-07-19,2023-06-29
+166,Improper Handling of Missing Special Element,2006-07-19,2024-02-29
+167,Improper Handling of Additional Special Element,2006-07-19,2024-02-29
+168,Improper Handling of Inconsistent Special Elements,2006-07-19,2024-02-29
+170,Improper Null Termination,2006-07-19,2023-06-29
+178,Improper Handling of Case Sensitivity,2006-07-19,2023-06-29
+179,Incorrect Behavior Order: Early Validation,2006-07-19,2023-06-29
+182,Collapse of Data into Unsafe Value,2006-07-19,2023-06-29
+183,Permissive List of Allowed Inputs,2006-07-19,2023-06-29
+184,Incomplete List of Disallowed Inputs,2006-07-19,2023-06-29
+186,Overly Restrictive Regular Expression,2006-07-19,2023-06-29
+190,Integer Overflow or Wraparound,2006-07-19,2024-02-29
+191,Integer Underflow (Wrap or Wraparound),2006-07-19,2023-06-29
+193,Off-by-one Error,2006-07-19,2023-06-29
+201,Insertion of Sensitive Information Into Sent Data,2006-07-19,2023-06-29
+204,Observable Response Discrepancy,2006-07-19,2023-06-29
+205,Observable Behavioral Discrepancy,2006-07-19,2023-06-29
+208,Observable Timing Discrepancy,2006-07-19,2024-02-29
+209,Generation of Error Message Containing Sensitive Information,2006-07-19,2023-06-29
+212,Improper Removal of Sensitive Information Before Storage or Transfer,2006-07-19,2024-02-29
+213,Exposure of Sensitive Information Due to Incompatible Policies,2006-07-19,2023-06-29
+214,Invocation of Process Using Visible Sensitive Information,2006-07-19,2023-06-29
+215,Insertion of Sensitive Information Into Debugging Code,2006-07-19,2023-06-29
+22,Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),2006-07-19,2023-10-26
+222,Truncation of Security-relevant Information,2006-07-19,2023-10-26
+223,Omission of Security-relevant Information,2006-07-19,2023-10-26
+224,Obscured Security-relevant Information by Alternate Name,2006-07-19,2023-10-26
+229,Improper Handling of Values,2006-07-19,2023-06-29
+233,Improper Handling of Parameters,2006-07-19,2023-06-29
+237,Improper Handling of Structural Elements,2006-07-19,2023-06-29
+241,Improper Handling of Unexpected Data Type,2006-07-19,2023-06-29
+242,Use of Inherently Dangerous Function,2006-07-19,2024-02-29
+243,Creation of chroot Jail Without Changing Working Directory,2006-07-19,2023-06-29
+248,Uncaught Exception,2006-07-19,2024-02-29
+250,Execution with Unnecessary Privileges,2006-07-19,2023-10-26
+252,Unchecked Return Value,2006-07-19,2023-10-26
+253,Incorrect Check of Function Return Value,2006-07-19,2024-02-29
+256,Plaintext Storage of a Password,2006-07-19,2024-02-29
+257,Storing Passwords in a Recoverable Format,2006-07-19,2023-10-26
+260,Password in Configuration File,2006-07-19,2023-10-26
+261,Weak Encoding for Password,2006-07-19,2023-06-29
+262,Not Using Password Aging,2006-07-19,2023-06-29
+263,Password Aging with Long Expiration,2006-07-19,2023-06-29
+266,Incorrect Privilege Assignment,2006-07-19,2023-06-29
+267,Privilege Defined With Unsafe Actions,2006-07-19,2023-06-29
+268,Privilege Chaining,2006-07-19,2023-06-29
+270,Privilege Context Switching Error,2006-07-19,2023-06-29
+272,Least Privilege Violation,2006-07-19,2023-06-29
+273,Improper Check for Dropped Privileges,2006-07-19,2023-06-29
+274,Improper Handling of Insufficient Privileges,2006-07-19,2024-02-29
+276,Incorrect Default Permissions,2006-07-19,2023-06-29
+277,Insecure Inherited Permissions,2006-07-19,2023-06-29
+278,Insecure Preserved Inherited Permissions,2006-07-19,2023-06-29
+279,Incorrect Execution-Assigned Permissions,2006-07-19,2023-06-29
+280,Improper Handling of Insufficient Permissions or Privileges ,2006-07-19,2023-06-29
+281,Improper Preservation of Permissions,2006-07-19,2023-06-29
+283,Unverified Ownership,2006-07-19,2023-06-29
+289,Authentication Bypass by Alternate Name,2006-07-19,2023-06-29
+290,Authentication Bypass by Spoofing,2006-07-19,2023-10-26
+294,Authentication Bypass by Capture-replay,2006-07-19,2023-06-29
+295,Improper Certificate Validation,2006-07-19,2023-06-29
+301,Reflection Attack in an Authentication Protocol,2006-07-19,2023-06-29
+303,Incorrect Implementation of Authentication Algorithm,2006-07-19,2023-06-29
+305,Authentication Bypass by Primary Weakness,2006-07-19,2023-06-29
+306,Missing Authentication for Critical Function,2006-07-19,2024-02-29
+307,Improper Restriction of Excessive Authentication Attempts,2006-07-19,2023-06-29
+308,Use of Single-factor Authentication,2006-07-19,2023-10-26
+309,Use of Password System for Primary Authentication,2006-07-19,2023-06-29
+312,Cleartext Storage of Sensitive Information,2006-07-19,2024-02-29
+319,Cleartext Transmission of Sensitive Information,2006-07-19,2024-02-29
+322,Key Exchange without Entity Authentication,2006-07-19,2023-06-29
+323,"Reusing a Nonce, Key Pair in Encryption",2006-07-19,2023-06-29
+324,Use of a Key Past its Expiration Date,2006-07-19,2023-10-26
+325,Missing Cryptographic Step,2006-07-19,2023-10-26
+328,Use of Weak Hash,2006-07-19,2024-02-29
+331,Insufficient Entropy,2006-07-19,2023-06-29
+334,Small Space of Random Values,2006-07-19,2023-06-29
+335,Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG),2006-07-19,2023-10-26
+338,Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),2006-07-19,2023-10-26
+341,Predictable from Observable State,2006-07-19,2023-06-29
+342,Predictable Exact Value from Previous Values,2006-07-19,2023-06-29
+343,Predictable Value Range from Previous Values,2006-07-19,2023-06-29
+344,Use of Invariant Value in Dynamically Changing Context,2006-07-19,2024-02-29
+346,Origin Validation Error,2006-07-19,2024-02-29
+347,Improper Verification of Cryptographic Signature,2006-07-19,2023-06-29
+348,Use of Less Trusted Source,2006-07-19,2024-02-29
+349,Acceptance of Extraneous Untrusted Data With Trusted Data,2006-07-19,2023-06-29
+351,Insufficient Type Distinction,2006-07-19,2023-06-29
+353,Missing Support for Integrity Check,2006-07-19,2023-06-29
+354,Improper Validation of Integrity Check Value,2006-07-19,2024-02-29
+356,Product UI does not Warn User of Unsafe Actions,2006-07-19,2023-10-26
+357,Insufficient UI Warning of Dangerous Operations,2006-07-19,2023-06-29
+358,Improperly Implemented Security Check for Standard,2006-07-19,2023-06-29
+359,Exposure of Private Personal Information to an Unauthorized Actor,2006-07-19,2023-06-29
+360,Trust of System Event Data,2006-07-19,2023-10-26
+364,Signal Handler Race Condition,2006-07-19,2023-06-29
+366,Race Condition within a Thread,2006-07-19,2023-10-26
+367,Time-of-check Time-of-use (TOCTOU) Race Condition,2006-07-19,2023-06-29
+368,Context Switching Race Condition,2006-07-19,2023-06-29
+369,Divide By Zero,2008-04-11,2023-06-29
+372,Incomplete Internal State Distinction,2006-07-19,2024-02-29
+374,Passing Mutable Objects to an Untrusted Method,2006-07-19,2023-06-29
+375,Returning a Mutable Object to an Untrusted Caller,2006-07-19,2023-06-29
+378,Creation of Temporary File With Insecure Permissions,2006-07-19,2023-10-26
+379,Creation of Temporary File in Directory with Insecure Permissions,2006-07-19,2023-10-26
+385,Covert Timing Channel,2006-07-19,2024-02-29
+386,Symbolic Name not Mapping to Correct Object,2006-07-19,2023-06-29
+390,Detection of Error Condition Without Action,2006-07-19,2024-02-29
+391,Unchecked Error Condition,2006-07-19,2024-02-29
+392,Missing Report of Error Condition,2006-07-19,2024-02-29
+393,Return of Wrong Status Code,2006-07-19,2023-10-26
+394,Unexpected Status Code or Return Value,2006-07-19,2023-06-29
+395,Use of NullPointerException Catch to Detect NULL Pointer Dereference,2006-07-19,2024-02-29
+396,Declaration of Catch for Generic Exception,2006-07-19,2023-06-29
+397,Declaration of Throws for Generic Exception,2006-07-19,2024-02-29
+403,Exposure of File Descriptor to Unintended Control Sphere ('File Descriptor Leak'),2006-07-19,2023-06-29
+408,Incorrect Behavior Order: Early Amplification,2006-07-19,2024-02-29
+409,Improper Handling of Highly Compressed Data (Data Amplification),2006-07-19,2023-06-29
+41,Improper Resolution of Path Equivalence,2006-07-19,2024-02-29
+410,Insufficient Resource Pool,2006-07-19,2023-06-29
+412,Unrestricted Externally Accessible Lock,2006-07-19,2023-06-29
+413,Improper Resource Locking,2006-07-19,2023-10-26
+414,Missing Lock Check,2006-07-19,2023-06-29
+419,Unprotected Primary Channel,2006-07-19,2023-06-29
+420,Unprotected Alternate Channel,2006-07-19,2024-02-29
+421,Race Condition During Access to Alternate Channel,2006-07-19,2023-06-29
+425,Direct Request ('Forced Browsing'),2006-07-19,2023-06-29
+426,Untrusted Search Path,2006-07-19,2023-06-29
+427,Uncontrolled Search Path Element,2006-07-19,2023-10-26
+428,Unquoted Search Path or Element,2006-07-19,2023-06-29
+430,Deployment of Wrong Handler,2006-07-19,2023-06-29
+431,Missing Handler,2006-07-19,2023-10-26
+434,Unrestricted Upload of File with Dangerous Type,2006-07-19,2024-02-29
+437,Incomplete Model of Endpoint Features,2006-07-19,2023-06-29
+439,Behavioral Change in New Version or Environment,2006-07-19,2023-06-29
+440,Expected Behavior Violation,2006-07-19,2024-02-29
+444,Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),2006-07-19,2023-06-29
+447,Unimplemented or Unsupported Feature in UI,2006-07-19,2023-06-29
+448,Obsolete Feature in UI,2006-07-19,2023-06-29
+449,The UI Performs the Wrong Action,2006-07-19,2023-06-29
+454,External Initialization of Trusted Variables or Data Stores,2006-07-19,2023-10-26
+455,Non-exit on Failed Initialization,2006-07-19,2023-06-29
+459,Incomplete Cleanup,2006-07-19,2023-06-29
+463,Deletion of Data Structure Sentinel,2006-07-19,2023-06-29
+464,Addition of Data Structure Sentinel,2006-07-19,2023-06-29
+466,Return of Pointer Value Outside of Expected Range,2006-07-19,2023-06-29
+468,Incorrect Pointer Scaling,2006-07-19,2023-06-29
+469,Use of Pointer Subtraction to Determine Size,2006-07-19,2023-06-29
+470,Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection'),2006-07-19,2023-10-26
+472,External Control of Assumed-Immutable Web Parameter,2006-07-19,2023-06-29
+474,Use of Function with Inconsistent Implementations,2006-07-19,2023-06-29
+475,Undefined Behavior for Input to API,2006-07-19,2023-06-29
+476,NULL Pointer Dereference,2006-07-19,2023-10-26
+477,Use of Obsolete Function,2006-07-19,2023-06-29
+478,Missing Default Case in Multiple Condition Expression,2006-07-19,2023-06-29
+480,Use of Incorrect Operator,2006-07-19,2024-02-29
+483,Incorrect Block Delimitation,2006-07-19,2023-10-26
+484,Omitted Break Statement in Switch,2006-07-19,2023-10-26
+487,Reliance on Package-level Scope,2006-07-19,2023-06-29
+488,Exposure of Data Element to Wrong Session,2006-07-19,2023-06-29
+489,Active Debug Code,2006-07-19,2023-06-29
+494,Download of Code Without Integrity Check,2006-07-19,2024-02-29
+497,Exposure of Sensitive System Information to an Unauthorized Control Sphere,2006-07-19,2023-10-26
+501,Trust Boundary Violation,2006-07-19,2023-06-29
+502,Deserialization of Untrusted Data,2006-07-19,2023-06-29
+515,Covert Storage Channel,2006-07-19,2023-06-29
+521,Weak Password Requirements,2006-07-19,2023-06-29
+523,Unprotected Transport of Credentials,2006-07-19,2023-06-29
+524,Use of Cache Containing Sensitive Information,2006-07-19,2023-06-29
+538,Insertion of Sensitive Information into Externally-Accessible File or Directory,2006-07-19,2023-10-26
+544,Missing Standardized Error Handling Mechanism,2006-07-19,2023-06-29
+547,"Use of Hard-coded, Security-relevant Constants",2006-07-19,2024-02-29
+549,Missing Password Field Masking,2006-07-19,2023-06-29
+551,Incorrect Behavior Order: Authorization Before Parsing and Canonicalization,2006-07-19,2023-06-29
+552,Files or Directories Accessible to External Parties,2006-07-19,2023-10-26
+561,Dead Code,2006-07-19,2024-02-29
+562,Return of Stack Variable Address,2006-07-19,2024-02-29
+563,Assignment to Variable without Use,2006-07-19,2024-02-29
+565,Reliance on Cookies without Validation and Integrity Checking,2006-07-19,2023-10-26
+570,Expression is Always False,2006-12-15,2023-06-29
+571,Expression is Always True,2006-12-15,2023-06-29
+580,clone() Method Without super.clone(),2006-12-15,2023-06-29
+581,Object Model Violation: Just One of Equals and Hashcode Defined,2006-12-15,2024-02-29
+584,Return Inside Finally Block,2006-12-15,2023-06-29
+586,Explicit Call to Finalize(),2006-12-15,2023-06-29
+587,Assignment of a Fixed Address to a Pointer,2006-12-15,2024-02-29
+59,Improper Link Resolution Before File Access ('Link Following'),2006-07-19,2023-06-29
+601,URL Redirection to Untrusted Site ('Open Redirect'),2007-05-07,2024-02-29
+603,Use of Client-Side Authentication,2007-05-07,2023-06-29
+605,Multiple Binds to the Same Port,2007-05-07,2023-10-26
+606,Unchecked Input for Loop Condition,2007-05-07,2023-06-29
+609,Double-Checked Locking,2007-05-07,2023-06-29
+611,Improper Restriction of XML External Entity Reference,2007-05-07,2023-10-26
+613,Insufficient Session Expiration,2007-05-07,2023-06-29
+617,Reachable Assertion,2007-05-07,2024-02-29
+618,Exposed Unsafe ActiveX Method,2007-05-07,2023-06-29
+619,Dangling Database Cursor ('Cursor Injection'),2007-05-07,2023-06-29
+620,Unverified Password Change,2007-05-07,2023-06-29
+624,Executable Regular Expression Error,2007-05-07,2023-06-29
+625,Permissive Regular Expression,2007-05-07,2023-06-29
+628,Function Call with Incorrectly Specified Arguments,2007-05-07,2023-06-29
+639,Authorization Bypass Through User-Controlled Key,2008-01-30,2024-02-29
+640,Weak Password Recovery Mechanism for Forgotten Password,2008-01-30,2023-06-29
+641,Improper Restriction of Names for Files and Other Resources,2008-01-30,2023-06-29
+645,Overly Restrictive Account Lockout Mechanism,2008-01-30,2023-06-29
+648,Incorrect Use of Privileged APIs,2008-01-30,2023-06-29
+649,Reliance on Obfuscation or Encryption of Security-Relevant Inputs without Integrity Checking,2008-01-30,2023-06-29
+653,Improper Isolation or Compartmentalization,2008-01-30,2024-02-29
+654,Reliance on a Single Factor in a Security Decision,2008-01-30,2023-10-26
+656,Reliance on Security Through Obscurity,2008-01-30,2023-10-26
+66,Improper Handling of File Names that Identify Virtual Resources,2006-07-19,2023-10-26
+663,Use of a Non-reentrant Function in a Concurrent Context,2008-04-11,2023-10-26
+676,Use of Potentially Dangerous Function,2008-04-11,2023-06-29
+681,Incorrect Conversion between Numeric Types,2008-04-11,2024-02-29
+694,Use of Multiple Resources with Duplicate Identifier,2008-09-09,2024-02-29
+695,Use of Low-Level Functionality,2008-09-09,2024-02-29
+698,Execution After Redirect (EAR),2008-09-09,2023-10-26
+708,Incorrect Ownership Assignment,2008-09-09,2023-06-29
+73,External Control of File Name or Path,2006-07-19,2023-10-26
+733,Compiler Optimization Removal or Modification of Security-critical Code,2008-10-14,2024-02-29
+749,Exposed Dangerous Method or Function,2008-11-24,2023-06-29
+756,Missing Custom Error Page,2009-03-10,2023-06-29
+76,Improper Neutralization of Equivalent Special Elements,2006-07-19,2023-06-29
+763,Release of Invalid Pointer or Reference,2009-05-27,2023-10-26
+764,Multiple Locks of a Critical Resource,2009-05-27,2023-06-29
+765,Multiple Unlocks of a Critical Resource,2009-05-27,2023-06-29
+766,Critical Data Element Declared Public,2009-05-27,2024-02-29
+767,Access to Critical Private Variable via Public Method,2009-05-27,2023-06-29
+770,Allocation of Resources Without Limits or Throttling,2009-05-27,2024-02-29
+771,Missing Reference to Active Allocated Resource,2009-05-27,2023-06-29
+772,Missing Release of Resource after Effective Lifetime,2009-05-27,2023-10-26
+776,Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),2009-07-27,2023-06-29
+778,Insufficient Logging,2009-07-27,2023-06-29
+779,Logging of Excessive Data,2009-07-27,2023-06-29
+78,Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),2006-07-19,2023-06-29
+783,Operator Precedence Logic Error,2009-07-27,2023-06-29
+786,Access of Memory Location Before Start of Buffer,2009-10-29,2024-02-29
+787,Out-of-bounds Write,2009-10-29,2024-02-29
+788,Access of Memory Location After End of Buffer,2009-10-29,2023-06-29
+79,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),2006-07-19,2024-02-29
+791,Incomplete Filtering of Special Elements,2009-12-28,2023-06-29
+798,Use of Hard-coded Credentials,2010-02-16,2024-02-29
+804,Guessable CAPTCHA,2010-02-16,2023-10-26
+805,Buffer Access with Incorrect Length Value,2010-02-16,2024-02-29
+807,Reliance on Untrusted Inputs in a Security Decision,2010-02-16,2023-06-29
+820,Missing Synchronization,2010-09-27,2023-10-26
+821,Incorrect Synchronization,2010-09-27,2023-06-29
+822,Untrusted Pointer Dereference,2010-09-27,2023-06-29
+823,Use of Out-of-range Pointer Offset,2010-09-27,2023-06-29
+824,Access of Uninitialized Pointer,2010-09-27,2023-06-29
+825,Expired Pointer Dereference,2010-09-27,2023-06-29
+826,Premature Release of Resource During Expected Lifetime,2010-09-27,2023-10-26
+829,Inclusion of Functionality from Untrusted Control Sphere,2010-12-13,2023-06-29
+832,Unlock of a Resource that is not Locked,2010-12-13,2023-06-29
+833,Deadlock,2010-12-13,2023-06-29
+835,Loop with Unreachable Exit Condition ('Infinite Loop'),2011-03-30,2024-02-29
+836,Use of Password Hash Instead of Password for Authentication,2011-03-30,2023-06-29
+837,"Improper Enforcement of a Single, Unique Action",2011-03-30,2023-10-26
+838,Inappropriate Encoding for Output Context,2011-03-30,2023-06-29
+839,Numeric Range Comparison Without Minimum Check,2011-03-30,2023-10-26
+841,Improper Enforcement of Behavioral Workflow,2011-03-30,2023-06-29
+842,Placement of User into Incorrect Group,2011-03-30,2023-06-29
+843,Access of Resource Using Incompatible Type ('Type Confusion'),2011-06-01,2023-10-26
+88,Improper Neutralization of Argument Delimiters in a Command ('Argument Injection'),2006-07-19,2023-06-29
+89,Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),2006-07-19,2024-02-29
+90,Improper Neutralization of Special Elements used in an LDAP Query ('LDAP Injection'),2006-07-19,2024-02-29
+908,Use of Uninitialized Resource,2013-02-21,2023-06-29
+909,Missing Initialization of Resource,2013-02-21,2023-10-26
+91,XML Injection (aka Blind XPath Injection),2006-07-19,2023-06-29
+910,Use of Expired File Descriptor,2013-02-21,2023-06-29
+911,Improper Update of Reference Count,2013-02-21,2023-06-29
+914,Improper Control of Dynamically-Identified Variables,2013-02-21,2023-10-26
+915,Improperly Controlled Modification of Dynamically-Determined Object Attributes,2013-02-21,2024-02-29
+916,Use of Password Hash With Insufficient Computational Effort,2013-02-21,2024-02-29
+917,Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection'),2013-02-21,2023-06-29
+918,Server-Side Request Forgery (SSRF),2013-02-21,2023-06-29
+920,Improper Restriction of Power Consumption,2013-07-17,2023-06-29
+921,Storage of Sensitive Data in a Mechanism without Access Control,2013-07-17,2023-06-29
+924,Improper Enforcement of Message Integrity During Transmission in a Communication Channel,2013-07-17,2023-06-29
+93,Improper Neutralization of CRLF Sequences ('CRLF Injection'),2006-07-19,2023-06-29
+939,Improper Authorization in Handler for Custom URL Scheme,2014-02-19,2023-06-29
+94,Improper Control of Generation of Code ('Code Injection'),2006-07-19,2024-02-29
+940,Improper Verification of Source of a Communication Channel,2014-02-19,2023-06-29
+941,Incorrectly Specified Destination in a Communication Channel,2014-02-19,2023-06-29
